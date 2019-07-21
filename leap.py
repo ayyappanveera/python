@@ -1,5 +1,5 @@
-a=int(input())
-if(a%4==0):
+leap=int(input())
+if(leap%4==0):
   print("yes")
 else:
   print("no")
