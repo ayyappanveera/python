@@ -1,5 +1,6 @@
-x=int(input())
-sum=0
-for i in range(1,x+1):
-  sum=sum+i
-print(sum)
+n=int(input())
+s=0
+while n>0:
+  s=s+n
+  n=n-1;
+print(s)
