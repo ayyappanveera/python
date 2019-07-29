@@ -1,5 +1,5 @@
 n=int(input())
-fact=1
+con=1
 for i in range(1,n+1):
-  fact=fact*i
-print(fact)
+  con=con*i
+print(con)
