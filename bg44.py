@@ -1,5 +1,5 @@
-p=int(input())
-if(1<=p and p<=10):
+ch=int(input())
+if(1<=ch and ch<=10):
     print("yes")
 else:
     print("no")
